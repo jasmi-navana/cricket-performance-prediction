@@ -48,7 +48,4 @@ This project analyzes IPL (2008–2024) ball-by-ball data to:
 | Version Control | Git, GitHub |
 | Dataset | IPL Ball-by-Ball (Kaggle) |
 
----
-
-## 📂 Project Structure
 
